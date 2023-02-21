@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gold_ingot.obj-65868f8c4004207bf586bae78df10a06.mesh"
+
+[deps]
+
+files=[ "res://.import/gold_ingot.obj-65868f8c4004207bf586bae78df10a06.mesh" ]
+
+source_file="res://assets/gold_ingot.obj"
+dest_files=[ "res://.import/gold_ingot.obj-65868f8c4004207bf586bae78df10a06.mesh", "res://.import/gold_ingot.obj-65868f8c4004207bf586bae78df10a06.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 0.01, 0.01, 0.01 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
